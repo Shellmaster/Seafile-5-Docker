@@ -1,2 +1,2 @@
-# Seafile-5-Docker
+# Seafile-basic
 Stateless docker with Seafile for a very basic usage
